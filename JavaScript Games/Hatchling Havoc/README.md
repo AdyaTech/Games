@@ -2,6 +2,8 @@
 
 **Hatchling Havoc - 2D Game**
 
+**LIVE DEMO** : https://adyaagr.github.io/game/
+
 ### Technologies Used:
 
 *   **HTML**: For the game structure
