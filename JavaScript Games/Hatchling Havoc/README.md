@@ -19,6 +19,6 @@
 
 *   Control the FPS of the game and measure time to trigger periodic events.
 
-*   Restart the game by pressing 'R' button.
+*   Restart the game by pressing 'R' button. Get rid of character circle by pressing 'D' button.
 
 
